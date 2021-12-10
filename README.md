@@ -15,3 +15,14 @@
 - As for testing, you need to set the path in both main and test function to open and load the file.
 
 - Datasets: you may find source training and testing code from the folder. However, due to the copyright of dataset, we can not upload the datasets, you may download the data and simulate them according to the paper.
+
+
+### Quantity results
+
+**Test on the simulated images from WV3 on 1258 examples
+
+![1](image_for_show/1.png)
+
+**Test on two reduced Rio and Tripoli datasets from WV3
+
+![2](image_for_show/2.png)
