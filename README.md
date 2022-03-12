@@ -33,7 +33,7 @@ The datasets used in this paper is WorldView-3 (can be downloaded [here](https:/
 
 
 # Get Started
-Training and testing codes are in '[codes/](./codes)'. 
+Training and testing codes are in the current folder. 
 
 -   The code for training is in train.py, while the code for test on one image (.mat) is in main_test_single.py and we also provide our pretrained model "pretrained.pth".
     
