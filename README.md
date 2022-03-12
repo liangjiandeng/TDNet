@@ -8,6 +8,20 @@ https://liangjiandeng.github.io/
 - State-of-the-art pansharpening performance
 
 
+# Citation
+```bib
+@article{TDNet,
+author = {Tian-Jing Zhang, Liang-Jian Deng, Ting-Zhu Huang, Jocelyn Chanussot, and Gemine Vivone},
+title = {A Triple-Double Convolutional Neural Network for Panchromatic Sharpening},
+journal = {IEEE Transactions on Neural Networks and Learning Systems},
+volume = {},
+pages = {2162-237X},
+year = {2022},
+issn = {1566-2535},
+doi = {10.1109/TNNLS.2022.3155655}
+}
+```
+
 # Dependencies and Installation
 - Python 3.8 (Recommend to use [Anaconda](https://www.anaconda.com/))
 - Pytorch 1.7.0
@@ -67,19 +81,6 @@ Specififically, Loss1 and Loss2 are defifined as follows:
 
 
 
-# Citation
-```bib
-@article{TDNet,
-author = {Tian-Jing Zhang, Liang-Jian Deng, Ting-Zhu Huang, Jocelyn Chanussot, and Gemine Vivone},
-title = {A Triple-Double Convolutional Neural Network for Panchromatic Sharpening},
-journal = {IEEE Transactions on Neural Networks and Learning Systems},
-volume = {},
-pages = {2162-237X},
-year = {2022},
-issn = {1566-2535},
-doi = {10.1109/TNNLS.2022.3155655}
-}
-```
 
 # Contact
 We are glad to hear from you. If you have any questions, please feel free to contact [zhangtianjinguestc@163.com](mailto:zhangtianjinguestc@163.com) .
