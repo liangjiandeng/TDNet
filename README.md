@@ -58,8 +58,11 @@ Training and testing codes are in the current folder.
 <img src="fig-to-show/2.png" width = "80%" />
 
 ***Loss Fuction:*** We propose a novel deep neural network architecture with level-domain-based loss function for pansharpening by taking into account the following double-type structures:
+
 <img src="fig-to-show/3.png" width = "30%" />
+
 Specififically, Loss1 and Loss2 are defifined as follows:
+
 <img src="fig-to-show/4.png" width = "30%" />
 
 
